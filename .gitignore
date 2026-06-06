@@ -177,3 +177,5 @@ app/firebase_credentials.json
 cbb9413 (Primer commit: subiendo el proyecto)
 venv/
 API-REST-FastAPI-firebase.git/
+__pycache__/
+*.pyc
